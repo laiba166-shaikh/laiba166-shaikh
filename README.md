@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laiba166-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="laiba166-shaikh" /> </p>
 
-- 🔭 I’m currently working on **single vendor e-commerce website as BAAS**
-
-- 🌱 I’m currently learning **Material-Ui, NodeJs**
+- 🔭 I’m currently working as **Software Engineer in Retrocausal**
 
 - 📫 How to reach me **laibas166@gmail.com**
 
