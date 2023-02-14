@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working as **Software Engineer in Retrocausal**
 
+- I've 2 years of experience in working on different frontend technologies likes **Html, Css, Javascript, Typescript, React js, Vue js**
+
 - 📫 How to reach me **laibas166@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
