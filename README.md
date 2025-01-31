@@ -20,5 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laiba166-shaikh&show_icons=true&locale=en&layout=compact" alt="laiba166-shaikh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laiba166-shaikh&show_icons=true&locale=en" alt="laiba166-shaikh" /></p>
-
